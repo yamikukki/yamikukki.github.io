@@ -2801,4 +2801,9 @@ html,
 		.gallery.style1 ul {
 			gap: 1.5rem;
 		}
+
+		.gallery.large_image li {
+			min-height: 500px;
+		}
+
 	}
