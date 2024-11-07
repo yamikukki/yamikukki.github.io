@@ -1804,7 +1804,7 @@ html,
 		width: auto;
 	}
 
-	.gallery ul li img .large {
+	.gallery ul li img.large {
 		min-height: 500px;
 	}
 	
