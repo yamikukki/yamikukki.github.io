@@ -1803,6 +1803,10 @@ html,
 		vertical-align: top;
 		width: auto;
 	}
+
+	.gallery ul li img .large {
+		min-height: 500px;
+	}
 	
 	.gallery ul li .caption {
 		width: 100%;
@@ -2800,10 +2804,6 @@ html,
 		}
 		.gallery.style1 ul {
 			gap: 1.5rem;
-		}
-
-		.large_image {
-			min-height: 500px;
 		}
 
 	}
