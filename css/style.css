@@ -2802,7 +2802,7 @@ html,
 			gap: 1.5rem;
 		}
 
-		.gallery.large_image li {
+		.large_image {
 			min-height: 500px;
 		}
 
